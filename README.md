@@ -4,7 +4,7 @@ Neutrino is an algorithmic price-stable cryptocurrency protocol that allows for 
 
 Neutrino documentation is hosted at docs.neutrino.at.
 
-https://github.com/Praexor/neutrino-web/blob/beta/Neutrino-Actors.png
+![alt text] (https://github.com/Praexor/neutrino-web/blob/beta/Neutrino-Actors.png)
 
 # Deployment
 
