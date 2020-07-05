@@ -98,7 +98,7 @@ require('yii-steroids/webpack')
             },
             plugins: [
                 new Dotenv({
-                    path: './.env',
+                    path: './.env.dev',
                 }),
             ],
             resolve: {
